@@ -1,1 +1,1 @@
-# Les écrans tactiles dans les bibliothèques #
+# Fonctionnement #
