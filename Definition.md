@@ -1,4 +1,4 @@
-# Definition #
+# Définition #
 
 **Qu'est-ce que c'est ?**
 >
