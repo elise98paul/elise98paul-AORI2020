@@ -1,4 +1,4 @@
-#  iNTRODUCTION #
+#  Introduction #
 
 on plan de classement s'organisera de la manière suivante :
 
