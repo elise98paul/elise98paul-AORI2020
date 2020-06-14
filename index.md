@@ -1,2 +1,2 @@
 # truc #
-[Ici]("Page d'accueil".md)
+[Page d'accueil]("Page d'accueil".md)
