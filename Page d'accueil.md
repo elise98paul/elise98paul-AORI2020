@@ -1,6 +1,4 @@
-# Page d'accueil #
-
-Bienvenue sur la page d'accueil de mon dossier documentaire traitant des écrans tactiles.
+#  iNTRODUCTION #
 
 on plan de classement s'organisera de la manière suivante :
 
