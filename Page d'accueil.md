@@ -1,6 +1,6 @@
-# Introduction #
+# Page d'accueil #
 
-Dans le cadre de mon cours d'Architecture des ordinateurs, je dois réalisé un dossier documentaire sur les écrans tactiles. J'ai établi un plan de classement qui
+Bienvenue sur la page d'accueil de mon dossier documentaire traitant des écrans tactiles.
 
 on plan de classement s'organisera de la manière suivante :
 
