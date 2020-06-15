@@ -4,7 +4,6 @@ BONACCORSI, Julia. Une esthétique renouvelée de la « scène de lecture »
 
 FUTURA TECH. Définition | Écran tactile | Futura Tech [en ligne]. 2020. [Consulté le 31 mai 2020]. Disponible à l’adresse : https://www.futura-sciences.com/tech/definitions/technologie-ecran-tactile-539/
 
-STEINER, Charlotte et COURVOISIER, François H. Les impacts des écrans tactiles sur les visiteurs dans les musées. La Lettre de l’OCIM. Musées, Patrimoine et Culture scientifiques et techniques [en ligne]. Office de Coopération et d’Information Muséographiques, Juillet 2015, no 160, p. 10‑16. DOI 10.4000/ocim.1539
 
 Beetronics - Solutions d’affichage professionnelles [en ligne]. [s. d.]. [Consulté le 31 mai 2020]. Disponible à l’adresse : https://www.beetronics.be/?gclid=EAIaIQobChMI9bm9sODd6QIViIbVCh01qgJBEAAYASAAEgIQ9vD_BwE
 
