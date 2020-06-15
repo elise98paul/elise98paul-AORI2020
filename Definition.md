@@ -48,3 +48,4 @@ Cette page a pour objectif de présenter les écrans tactiles. Il s'agira de dé
 
 
 #### Le dossier documentaire continue : rendez-vous à la page [Fonctionnement](Fonctionnement.md)
+
