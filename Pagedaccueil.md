@@ -13,7 +13,7 @@ Mon dossier documetaire présentera une nouvelle technologie : les écrans tacti
     
     * Historique
     
-    * Avantanges/inconvénient
+    * Avantanges/inconvénients
 
 * Fonctionnement
 
