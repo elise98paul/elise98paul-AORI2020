@@ -10,6 +10,9 @@ Historique
 
 Dans les années 50, la première interface tactile
 
-Quelques sources u :
+Liens des source utlisées pour cette section 
+
+
+[Wikipedia](https://fr.wikipedia.org/wiki/Écran_tactile)
 
 [Futura Tech](https://www.futura-sciences.com/tech/definitions/technologie-ecran-tactile-539/) 
