@@ -10,7 +10,7 @@ Cette page à pour objectif de présenter les écrans tactiles. Il s'agira de d�
 
 ## Historique 
 
-[Les technologies tactiles](http://www-igm.univ-mlv.fr/~dr/XPOSE2008/Les%20technologies%20tactiles/histo_origine.html) présente l'historique de cette technologie plus ancienne que ce l'on pourrait penser. Son histoire commence en **1953** par l'invention du Canadien Hugh Le Caine. Ce dernier inventa *le premier synthétiser électronique, baptisé la saqueboute*. Par la suite, les premiers écrans tactiles firent leurs apparitions dans **les années 60**
+[Les technologies tactiles](http://www-igm.univ-mlv.fr/~dr/XPOSE2008/Les%20technologies%20tactiles/histo_origine.html) présente l'historique de cette technologie plus ancienne que ce que l'on pourrait penser. Son histoire commence en **1953** par l'invention du Canadien Hugh Le Caine. Ce dernier inventa *le premier synthétiser électronique, baptisé la saqueboute*. Par la suite, les premiers écrans tactiles firent leurs apparitions dans **les années 60**
 
 ## Avantages/Inconvénients
 
