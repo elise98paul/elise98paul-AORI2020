@@ -7,6 +7,11 @@ Cette page a pour objectif de présenter les écrans tactiles. Il s'agira de dé
 *Un écran tactile est un périphérique informatique qui combine les fonctionnalités d'affichage d'un écran (moniteur) et celles d'un dispositif de pointage comme la souris, le pavé tactile ou le stylet optique*. [Wikipedia](https://fr.wikipedia.org/wiki/Écran_tactile)
 >
 
+>
+*Il y a plusieurs types d’écran tactiles, reposants chacun sur des technologies différentes, mais je ne parlerai ici que des écrans tactiles capacitifs : ceux ayant un écran dur et sans stylet. Ce sont aujourd’hui les plus courants sur les téléphones et ce sont ceux qui autorisent le multi-touch*.
+>
+ 
+
 
 ## Historique 
 
