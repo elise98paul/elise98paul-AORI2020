@@ -8,7 +8,7 @@ Cette page a pour objectif de présenter les écrans tactiles. Il s'agira de dé
 >
 
 >
-*Il y a plusieurs types d’écran tactiles, reposants chacun sur des technologies différentes, mais je ne parlerai ici que des écrans tactiles capacitifs : ceux ayant un écran dur et sans stylet. Ce sont aujourd’hui les plus courants sur les téléphones et ce sont ceux qui autorisent le multi-touch*. [Ecran taclile](https://couleur-science.eu/?d=4e0bec--comment-fonctionne-un-ecran-tactile)
+*Il y a plusieurs types d’écran tactiles, reposants chacun sur des technologies différentes, mais je ne parlerai ici que des écrans tactiles capacitifs : ceux ayant un écran dur et sans stylet. Ce sont aujourd’hui les plus courants sur les téléphones et ce sont ceux qui autorisent le multi-touch*. [Couleur sciences](https://couleur-science.eu/?d=4e0bec--comment-fonctionne-un-ecran-tactile)
 >
  
 
