@@ -47,4 +47,4 @@ Cette page a pour objectif de présenter les écrans tactiles. Il s'agira de dé
 [Avantages et inconvenients](http://www.ordinateur.cc/Matériel/Entrée-et-de-sortie-Devices/31990.html)
 
 
-#### Le dossier documentaire continue : rendez-vous à la page [fonctionnement](focntionnement.md)
+#### Le dossier documentaire continue : rendez-vous à la page [Fonctionnement](Fonctionnement.md)
