@@ -1,6 +1,6 @@
 # Bibliographie #
 
-BONACCORSI, Julia. Une esthétique renouvelée de la « scène de lecture » : l’iconographie publicitaire de la lecture sur les tablettes numériques. Mémoires du livre / Studies in Book Culture [en ligne]. Groupe de recherches et d’études sur le livre au Québec, 2012, Vol. 3, no 2. [Consulté le 31 mai 2020]. [la lecture sur les tablettes](https://doi.org/10.7202/1009350ar)
+BONACCORSI, Julia. Une esthétique renouvelée de la « scène de lecture » : l’iconographie publicitaire de la lecture sur les tablettes numériques. Mémoires du livre / Studies in Book Culture [en ligne]. Groupe de recherches et d’études sur le livre au Québec, 2012, Vol. 3, no 2. [Consulté le 31 mai 2020]. Disponible à l'adresse : [la lecture sur les tablettes](https://doi.org/10.7202/1009350ar)
 
 FUTURA TECH. Définition | Écran tactile | Futura Tech [en ligne]. 2020. [Consulté le 31 mai 2020]. Disponible à l’adresse : [ecran tacile](https://www.futura-sciences.com/tech/definitions/technologie-ecran-tactile-539/)
 
