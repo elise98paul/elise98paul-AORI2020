@@ -2,20 +2,8 @@
 
 Les écrans tacliles ont pris une place
 
-Mon plan de classement s'organisera de la manière suivante :
 
-* Introduction
 
-* [definition](definition.md)
+
+Je vous invite à vous rendre à la page [definition](definition.md) pour poser les bases des orignines des écrans tactiles
    
-   *  Qu'est-ce que c'est ?
-   
-   *  Historique
-    
-   *  Avantanges/inconvénient
-    
-*  fonctionnement
-   *  Composant
-* Les écrans tactiles dans les bibliothèques
-
-[image tablette](https://pxhere.com/fr/photo/670674)
