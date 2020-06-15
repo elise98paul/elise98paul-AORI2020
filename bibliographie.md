@@ -1,9 +1,8 @@
-# Bibliographie #
+# Bibliographie 
 
 BONACCORSI, Julia. *Une esthétique renouvelée de la « scène de lecture » : l’iconographie publicitaire de la lecture sur les tablettes numériques. Mémoires du livre*. Studies in Book Culture [en ligne]. Groupe de recherches et d’études sur le livre au Québec, 2012, Vol. 3, no 2. [Consulté le 31 mai 2020]. Disponible à l'adresse : [Erudit](https://www.erudit.org/fr/revues/memoires/2012-v3-n2-memoires0117/1009350ar/)
 
 FUTURA TECH. *Définition écran tactile*. [en ligne]. 2020. [Consulté le 31 mai 2020]. Disponible à l’adresse : [Futura tech](https://www.futura-sciences.com/tech/definitions/technologie-ecran-tactile-539/)
-
 
 Comment fonctionne un écran tactile ? - Couleur-Science [en ligne]. [s. d.]. [Consulté le 31 mai 2020]. Disponible à l’adresse : [Couleur sciences](https://couleur-science.eu/?d=4e0bec--comment-fonctionne-un-ecran-tactile)
 
@@ -20,6 +19,9 @@ Interfaces tactiles. *Fonctionnement écran tactile*.  [en ligne]. [s. d.]. [Con
 Les technologies tactiles. *Historique - L’origine des temps* [en ligne]. [s. d.]. [Consulté le 30 avril 2020]. Disponible à l’adresse : [Historique](http://igm.univ-mlv.fr/~dr/XPOSE2008/Les%20technologies%20tactiles/histo_origine.html)
 
 Marché de la technologie des écrans tactiles 2020: taille, part, analyse, perspectives régionales et prévisions-2025. Instant Interview [en ligne]. [s. d.]. [Consulté le 31 mai 2020]. Disponible à l’adresse : [Marché des ecrans tactiles](https://www.linstant-interview.com/174950/marche-de-la-technologie-des-ecrans-tactiles-2020-taille-part-analyse-perspectives-regionales-et-previsions-2025/)
+
+Avantages et inconvénients de la technologie de l’écran tactile [en ligne]. [s. d.]. [Consulté le 15 juin 2020]. Disponible à l’adresse : [Ordinateur.cc](http://www.ordinateur.cc/Mat%C3%A9riel/Entr%C3%A9e-et-de-sortie-Devices/31990.html) 
+
 
 ## Bibliographie du fichier image
 
