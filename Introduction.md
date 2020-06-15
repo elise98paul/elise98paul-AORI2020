@@ -4,9 +4,11 @@ Les écrans tacliles ont pris une grande place dans nos vies. En effet, nous nou
 
 Après lectures des différents documents trouvé, j'ai établi un plan de classement se structurant de la manière suivante :
 
-* Définition
+* [Definition](Definition.md)
     
     * Qu'est-ce que c'est ?
+    
+    * Les différents types d'écrans tactiles
     
     * Historique
     
