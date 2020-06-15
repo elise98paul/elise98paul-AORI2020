@@ -1,6 +1,6 @@
 # Definition 
 
-Cette page à pour objectif de présenter les écrans tactiles. Il s'agira de définir cette technologie, de présenter son histoire et de savoir quels sont ces avantages et inconvénients.
+Cette page a pour objectif de présenter les écrans tactiles. Il s'agira de définir cette technologie, de présenter son histoire et de savoir quels sont ces avantages et inconvénients.
 
 ## Qu'est-ce que c'est ?
 >
@@ -22,7 +22,6 @@ Cette page à pour objectif de présenter les écrans tactiles. Il s'agira de d�
 
 - Capacité d'adaptation (matériels/logiciels)
 
-- 
 
 **Inconvénients**
 
@@ -40,5 +39,7 @@ Cette page à pour objectif de présenter les écrans tactiles. Il s'agira de d�
 
 [Les technologies tactiles](http://www-igm.univ-mlv.fr/~dr/XPOSE2008/Les%20technologies%20tactiles/histo_origine.html)
 
+[Avantages et inconvenients](http://www.ordinateur.cc/Matériel/Entrée-et-de-sortie-Devices/31990.html)
 
-Le dossier documentaire continue : rendez-vous à la page [fonctionnement](focntionnement.md)
+
+#### Le dossier documentaire continue : rendez-vous à la page [fonctionnement](focntionnement.md)
