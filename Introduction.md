@@ -1,12 +1,19 @@
 #  Introduction #
 
-on plan de classement s'organisera de la manière suivante :
+Les écrans tacliles ont pris une place
 
-* Classe 1 : définition
-    * Sous classe 1 : qu'est-ce que c'est ?
-    * Sous classe 2 : avantanges/inconvénient
-* Classe 2 : fonctionnement
-  * Sous classe 1 : composant
-* Classe 3 : les écrans tactiles dans les bibliothèques
+Mon plan de classement s'organisera de la manière suivante :
+* Introduction
+* [Définition](definition.md)
+   
+   *  Qu'est-ce que c'est ?
+   
+   *  Historique
+    
+   *  Avantanges/inconvénient
+    
+*  fonctionnement
+   *  Composant
+* Les écrans tactiles dans les bibliothèques
 
 [image tablette](https://pxhere.com/fr/photo/670674)
