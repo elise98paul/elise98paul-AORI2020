@@ -14,7 +14,7 @@ Dans les années 50, la première interface tactile
 
 ## Avantages/Inconvénients
 
-**Avantages :
+**Avantages** :
 
 - Simple à ulitiser, plus besoin d'un clavier ou d'une souri
 
