@@ -1,6 +1,6 @@
 # Bibliographie #
 
-BONACCORSI, Julia. Une esthétique renouvelée de la « scène de lecture » : l’iconographie publicitaire de la lecture sur les tablettes numériques. Mémoires du livre / Studies in Book Culture [en ligne]. Groupe de recherches et d’études sur le livre au Québec, 2012, Vol. 3, no 2. [Consulté le 31 mai 2020]. DOI [la lecture sur les tablettes](https://doi.org/10.7202/1009350ar)
+BONACCORSI, Julia. Une esthétique renouvelée de la « scène de lecture » : l’iconographie publicitaire de la lecture sur les tablettes numériques. Mémoires du livre / Studies in Book Culture [en ligne]. Groupe de recherches et d’études sur le livre au Québec, 2012, Vol. 3, no 2. [Consulté le 31 mai 2020]. [la lecture sur les tablettes](https://doi.org/10.7202/1009350ar)
 
 FUTURA TECH. Définition | Écran tactile | Futura Tech [en ligne]. 2020. [Consulté le 31 mai 2020]. Disponible à l’adresse : [ecran tacile](https://www.futura-sciences.com/tech/definitions/technologie-ecran-tactile-539/)
 
@@ -11,7 +11,7 @@ De l’écran tactile à la réalité augmentée / Les livres pour enfants à l�
 
 Digitalisation de la Bibliothèque - Dispositifs interactifs. Dans : Digilor [en ligne]. [s. d.]. [Consulté le 31 mai 2020]. Disponible à l’adresse : [Digitalisation](https://www.digilor.fr/digitalisation-de-la-bibliotheque/)
 
-Écran tactile [en ligne]. [S. l.] : [s. n.], 3 mai 2020. [Consulté le 31 mai 2020]. Disponible à l’adresse : [Ecran tactile](https://fr.wikipedia.org/w/index.php?title=%C3%89cran_tactile&oldid=170387426). Page Version ID: 170387426
+Écran tactile [en ligne]. [S. l.] : [s. n.], 3 mai 2020. [Consulté le 31 mai 2020]. Disponible à l’adresse : [Ecran tactile](https://fr.wikipedia.org/w/index.php?title=%C3%89cran_tactile&oldid=170387426). 
 
 Ecrans tactiles : le marché est dans le grand public pas dans les entreprises - Distributique [en ligne]. [s. d.]. [Consulté le 31 mai 2020]. Disponible à l’adresse : [Ecran tactiles marche](https://www.distributique.com/actualites/lire-ecrans-tactiles-le-marche-est-dans-le-grand-public-pas-dans-les-entreprises-14341.html)
 
