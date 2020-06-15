@@ -25,4 +25,12 @@ Les technologies tactiles - Historique - L’origine des temps [en ligne]. [s. d
 
 Marché de la technologie des écrans tactiles 2020: taille, part, analyse, perspectives régionales et prévisions-2025 – Instant Interview [en ligne]. [s. d.]. [Consulté le 31 mai 2020]. Disponible à l’adresse : https://www.linstant-interview.com/174950/marche-de-la-technologie-des-ecrans-tactiles-2020-taille-part-analyse-perspectives-regionales-et-previsions-2025/
 
-ouchscreen Components [en ligne]. [s. d.]. [Consulté le 31 mai 2020]. Disponible à l’adresse : http://www.elotouch.fr/composants-tactiles.html
+## Bibliographie du fichier image
+
+ELO. Ondes acoustiques de surface IntelliTouch®, Avec cadre [en ligne]. [s. d.]. [Consulté le 15 juin 2020]. Disponible à l’adresse : http://www.elotouch.fr/touchscreen-components/catalog-product-view-id-82.html
+
+LES NUMÉRIQUES. Quels sont les meilleurs « petits smartphones » ? Juin 2020 - Les Numériques [en ligne]. 2020. [Consulté le 15 juin 2020]. Disponible à l’adresse : https://www.lesnumeriques.com/telephone-portable/guide-achat-les-meilleurs-petits-smartphones-g65.html
+
+Borne interactive tactile, plv dynamique | Table tactile, Borne interactive, Table. Dans : Pinterest [en ligne]. [s. d.]. [Consulté le 15 juin 2020]. Disponible à l’adresse : https://www.pinterest.com/pin/838584393088767657/
+
+Moodboards Bibliothèques. Dans : Digilor [en ligne]. 2018. [Consulté le 15 juin 2020]. Disponible à l’adresse : https://www.digilor.fr/moodboards-bibliotheques/
