@@ -4,7 +4,7 @@ Les écrans tactiles sont très présents dans notre vie de tous les jours. Cett
 
 **L'article d'Erudit** nous explique que la lecture sur tablette est une sorte de contemplation. Le lecteur lit mais d'une façon contemplative. De plus la tablette peut jouer le rôle de tableau, comme une oeuvre d'art.
 
-D'autres bilbiothèque, comme la bibliothèque universitaire de Laval, mettent à disposition des étudiants/lectures des tables tactiles permettant aux étudiants de consulter les collections
+D'autres bilbiothèque, comme **la bibliothèque universitaire de Laval**, mettent à disposition des étudiants/lecteurs des tables tactiles permettant aux étudiants de consulter les collections
 
 ### Liens utilisés pour cette section :
 
