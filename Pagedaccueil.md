@@ -16,8 +16,8 @@ Mon dossier documetaire présentera une nouvelle technologie : les écrans tacti
     * Avantanges/inconvénient
 
 * Fonctionnement
-  
-  * Composants
+
+    * Composants
 
 * Les écrans tactiles dans les bibliothèques
 
