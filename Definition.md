@@ -10,7 +10,7 @@ Cette page à pour objectif de présenter les écrans tactiles. Il s'agira de d�
 
 ## Historique 
 
-Dans les années 50, la première interface tactile
+[Les technologies tactiles](http://www-igm.univ-mlv.fr/~dr/XPOSE2008/Les%20technologies%20tactiles/histo_origine.html) présente l'historique de cette technologie plus ancienne que ce l'on pourrait penser. Son histoire commence en **1953** par l'invention du Canadien Hugh Le Caine. Ce dernier inventa *le premier synthétiser électronique, baptisé la saqueboute*. Par la suite, les premiers écrans tactiles firent leurs apparitions dans **les années 60**
 
 ## Avantages/Inconvénients
 
@@ -24,9 +24,11 @@ Dans les années 50, la première interface tactile
 
 - 
 
-**Inconvénients
+**Inconvénients**
 
 - L'écran tactile ne répond pas de la même façon qu'un clavier. Il faut adapter sa manière de taper sur le clavier d'un écran tactile
+
+- Le public est habitué à utiliser le clavier d'un ordinateur.
 
 
 ## Liens des source utlisées pour cette section :
@@ -34,8 +36,9 @@ Dans les années 50, la première interface tactile
 
 [Wikipedia](https://fr.wikipedia.org/wiki/Écran_tactile)
 
+[Futura Tech](https://www.futura-sciences.com/tech/definitions/technologie-ecran-tactile-539/) 
+
 [Les technologies tactiles](http://www-igm.univ-mlv.fr/~dr/XPOSE2008/Les%20technologies%20tactiles/histo_origine.html)
 
-[Futura Tech](https://www.futura-sciences.com/tech/definitions/technologie-ecran-tactile-539/) 
 
 Le dossier documentaire continue : rendez-vous à la page [fonctionnement](focntionnement.md)
