@@ -1,10 +1,12 @@
-#  Introduction #
+#  Introduction 
 
 Les écrans tacliles ont pris une place
 
 Mon plan de classement s'organisera de la manière suivante :
+
 * Introduction
-* [Définition](definition.md)
+
+* [Definition](definition.md)
    
    *  Qu'est-ce que c'est ?
    
