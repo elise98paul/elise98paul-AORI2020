@@ -13,4 +13,4 @@ Les écrans tactiles peuvent être composés de verre, saphir ou encore de plast
 [Comment fonctionnent les écrans tactiles](https://couleur-science.eu/?d=4e0bec--comment-fonctionne-un-ecran-tactile)
 
 
-#### Suite du dossier documentaire à la page [ecrans tactiles dans les bibliothèques](ecranstactilesdanslesbibliothèque.md) 
+#### Suite du dossier documentaire à la page [ecrans tactiles dans les bibliothèques](ecranstactilesdanslesbibliothèques.md) 
