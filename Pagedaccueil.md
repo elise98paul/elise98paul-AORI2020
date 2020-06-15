@@ -20,3 +20,5 @@ Mon dossier documetaire présentera une nouvelle technologie : les écrans tacti
   * Composants
 
 * Les écrans tactiles dans les bibliothèques
+
+* Bibliographie
