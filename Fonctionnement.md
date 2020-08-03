@@ -3,11 +3,7 @@ Cete section présente brièvement le fonctionnement des écrans tactiles et cit
 
 # Fonctionnement 
 
-Les écrans tactiles fonctionnent au toucher.  
-
->
-C'est à dire  que : *Le fonctionnement repose sur le fait que le corps humain peut emmagasiner une charge électrostatique qui est capable de modifier le champ électrique appliqué sur l’écran tactile. L’écran voit alors sa capacité électrique (quantité de charges) modifié localement (attirés par le doigt)*. [couleur science](https://couleur-science.eu/?d=4e0bec--comment-fonctionne-un-ecran-tactile)
-> 
+[Les écrans tactiles fonctionnent au toucher] (https://patentimages.storage.googleapis.com/00/8f/7e/e2b6ef712392fc/US20120013555A1.pdf)
 
 ### Composants
 
