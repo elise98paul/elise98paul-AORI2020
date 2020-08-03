@@ -3,7 +3,7 @@ Cete section présente brièvement le fonctionnement des écrans tactiles et cit
 
 # Fonctionnement 
 
-[Les écrans tactiles fonctionnent au toucher] (https://patentimages.storage.googleapis.com/00/8f/7e/e2b6ef712392fc/US20120013555A1.pdf)
+[technologie capacitive](https://tpeacg.files.wordpress.com/2012/02/capture-d_c3a9cran-2012-02-20-c3a0-16-20-26.png)
 
 ### Composants
 
