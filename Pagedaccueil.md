@@ -6,14 +6,6 @@ Mon dossier documetaire présentera une nouvelle technologie : les écrans tacti
 * [Introduction](Introduction.md)
 
 * Définition
-    
-    * Qu'est-ce que c'est ?
-    
-    * Les différents types de technologie d'écrans tactiles
-    
-    * Historique
-    
-    * Avantanges/inconvénients
 
 * Fonctionnement
 
