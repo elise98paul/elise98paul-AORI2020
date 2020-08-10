@@ -10,11 +10,11 @@ Dans cette section, vous pourrez découvrir quelques définitions d'écrans tact
 
 [Historique](histoire.md)
 
-**[Fonctionnement](fonctionnement.md)
+**[Fonctionnement](Fonctionnement.md)
   
   Composants
 
-**[Les écrans tactiles dans les bibliothèques](lesecranstactilesdanslesbibliotheques.md)
+**[Les écrans tactiles dans les bibliothèques](Lesecranstactilesdanslesbibliotheques.md)
 
 # [Bibliographie](Bibliographie) 
 
@@ -22,5 +22,5 @@ Dans cette section, vous pourrez découvrir quelques définitions d'écrans tact
 
 Je vous invite à vous rendre à la page [Definition](Definition.md) pour poser les bases des orignines des écrans tactiles.
 
-Pour retourner la page d'accueil c'est par ici : [Accueil](accueil.md)
+Pour retourner la page d'accueil c'est par ici : [Accueil](Accueil.md)
    
