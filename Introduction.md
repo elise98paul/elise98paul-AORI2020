@@ -5,24 +5,20 @@ Les écrans tacliles ont pris une grande place dans nos vies. En effet, nous nou
 Après lectures des différents documents trouvés, j'ai établi un plan de classement se structurant de la manière suivante :
 
 * [Definition](Definition.md)
-    
-    * Qu'est-ce que c'est ?
-    
-    * Les différents types d'écrans tactiles
-    
-    * Historique
-    
-    * Avantanges/inconvénient
 
-* Fonctionnement
+Dans cette section, vous pourrez découvrir quelques définitions d'écrans tactiles et les différents d'écrans tactiles qu'il existe ainsi que leurs définitions.
+
+* [Fonctionnement](fonctionnement)
   
   * Composants
 
-* Les écrans tactiles dans les bibliothèques
+* [Les écrans tactiles dans les bibliothèques](lesecranstactilesdanslesbibliotheques)
 
-* Bibliographie
+* [Bibliographie](Bibliographie) 
 
 
 
-Je vous invite à vous rendre à la page [Definition](Definition.md) pour poser les bases des orignines des écrans tactiles
+Je vous invite à vous rendre à la page [Definition](Definition.md) pour poser les bases des orignines des écrans tactiles.
+
+[accueil](accueil)
    
