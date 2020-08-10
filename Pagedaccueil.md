@@ -9,7 +9,7 @@ Mon dossier documetaire présentera une nouvelle technologie : les écrans tacti
 
 * [Historique](Historique.md)
 
-* Fonctionnement(fonctionnement.md)
+* [Fonctionnement](fonctionnement.md)
 
     * Composants 
 
