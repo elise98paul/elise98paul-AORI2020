@@ -5,12 +5,14 @@ Mon dossier documetaire présentera une nouvelle technologie : les écrans tacti
 
 * [Introduction](Introduction.md)
 
-* Définition
+* [Définition](Definition.md)
 
-* Fonctionnement
+* [Historique](Historique.md)
+
+* Fonctionnement(fonctionnement.md)
 
     * Composants 
 
-* Les écrans tactiles dans les bibliothèques
+* [Les écrans tactiles dans les bibliothèques](lesecranstactilesdanslesbibliotheques)
 
-* Bibliographie
+* [Bibliographie](bibliographie.md)
