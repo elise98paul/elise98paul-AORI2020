@@ -1,4 +1,4 @@
-#  Introduction 
+##  Introduction 
 
 Les écrans tacliles ont pris une grande place dans nos vies. En effet, nous nous sommes habitués à avoir un gsm tactile, un GPS, une tablette ou encore un ordinateur avec écran tactile. Mais connaissons-nous son histoire, ses avantages et inconvénients, son fonctionnement, ses composants et sa place dans les bibliothèques ? Ce dossier documentaire a pour objectif de répondre à toutes ces interrogations.
 
@@ -8,7 +8,7 @@ Après lectures des différents documents trouvés, j'ai établi un plan de clas
 
 Dans cette section, vous pourrez découvrir quelques définitions d'écrans tactiles et les différents d'écrans tactiles qu'il existe ainsi que leurs définitions. Les sources de cette section sont classées par ordre alphabétique.
 
-**[Historique](histoire.md)
+[Historique](histoire.md)
 
 **[Fonctionnement](fonctionnement.md)
   
