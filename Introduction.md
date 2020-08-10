@@ -22,5 +22,5 @@ Dans cette section, vous pourrez découvrir quelques définitions d'écrans tact
 
 Je vous invite à vous rendre à la page [Definition](Definition.md) pour poser les bases des orignines des écrans tactiles.
 
-Pour retourner la page d'accueil c'est par ici : [Page d'accueil](pagedaccueil.md)
+Pour retourner à la page d'accueil, c'est par ici : [Paged'accueil](Pagedaccueil.md)
    
