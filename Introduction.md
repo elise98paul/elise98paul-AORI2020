@@ -6,13 +6,15 @@ Après lectures des différents documents trouvés, j'ai établi un plan de clas
 
 * [Definition](Definition.md)
 
-Dans cette section, vous pourrez découvrir quelques définitions d'écrans tactiles et les différents d'écrans tactiles qu'il existe ainsi que leurs définitions.
+Dans cette section, vous pourrez découvrir quelques définitions d'écrans tactiles et les différents d'écrans tactiles qu'il existe ainsi que leurs définitions. Les sources de cette section sont classées par ordre alphabétique.
 
-* [Fonctionnement](fonctionnement)
+** [Historique](histoire.md)
+
+** [Fonctionnement](fonctionnement.md)
   
   * Composants
 
-* [Les écrans tactiles dans les bibliothèques](lesecranstactilesdanslesbibliotheques)
+* [Les écrans tactiles dans les bibliothèques](lesecranstactilesdanslesbibliotheques.md)
 
 * [Bibliographie](Bibliographie) 
 
@@ -20,5 +22,5 @@ Dans cette section, vous pourrez découvrir quelques définitions d'écrans tact
 
 Je vous invite à vous rendre à la page [Definition](Definition.md) pour poser les bases des orignines des écrans tactiles.
 
-Pour retourner la page d'accueil c'est par ici : [Accueil](accueil)
+Pour retourner la page d'accueil c'est par ici : [Accueil](accueil.md)
    
