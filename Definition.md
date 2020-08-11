@@ -6,9 +6,8 @@ Les différentes définitions d'écrans tactile
 
 Definition touch screen (deftouchscreen.md) 
 
-[écran tactile défintion](https://www.futura-sciences.com/tech/definitions/technologie-ecran-tactile-539//www.github.com//images/ecrantactiledefinition.Png)
 
-[Défintion écrans tactile](https://www.github.com//ecranstactiles/definitions//ecrantactiledefinition.Png)
+![Défintion écrans tactile](https://www.github.com/ecrantactiledefinition.Png)
  
 ## Les différents types de technologies d'écrans tactiles
 
