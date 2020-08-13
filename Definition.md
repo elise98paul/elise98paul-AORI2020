@@ -9,8 +9,8 @@ TECHOPEDIA. *What is a Touch Screen? - Definition from Techopedia. Dans : Tech
 |------------------------------------------------------------------------------------------------------------------|
 
 Les différentes défintion en français
- 
-|![définition écran tactile](https://github.com/elise98paul/elisepaul-AORI-2020/blob/master/Ecrans%20Tactiles/D%C3%A9finitions/ecrantactiledefinition.PNG)|
+
+![définition écran tactile](https://github.com/elise98paul/elisepaul-AORI-2020/blob/master/Ecrans%20Tactiles/D%C3%A9finitions/ecrantactiledefinition.PNG)
 
  
 ## Les différents types de technologies d'écrans tactiles
