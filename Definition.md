@@ -2,7 +2,7 @@
 
 Cette page a pour objectif définir les écrans tactiles, en anglais et en français, et de présenter les différents types d'écrans tactiles existant.
 
-Les différentes définitions en anglais d'écrans tactile
+Les différentes définitions en anglais 
 
 ![défintion écran tactile](https://github.com/elise98paul/elisepaul-AORI-2020/blob/master/whatisatouchscreen.PNG)
 
