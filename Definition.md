@@ -5,8 +5,7 @@ Cette page a pour objectif définir les écrans tactiles, en anglais et en fran�
 Les différentes définitions en anglais 
 
 ### TECHOPEDIA. *What is a Touch Screen? - Definition from Techopedia*. Dans : Techopedia [en ligne]. 2017. [Consulté le 10 août 2020]. Disponible à l’adresse : [https://www.techopedia.com/definition/3055/touch-screen](https://www.techopedia.com/definition/3055/touch-screen)
-| ![défintion écran tactile](https://github.com/elise98paul/elisepaul-AORI-2020/blob/master/whatisatouchscreen.PNG) |
-| -------------------------------------------- |
+![défintion écran tactile](https://github.com/elise98paul/elisepaul-AORI-2020/blob/master/whatisatouchscreen.PNG)
 
 Les différentes défintion en français
 
