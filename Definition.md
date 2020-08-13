@@ -1,13 +1,15 @@
 # Definition 
 
-Cette page a pour objectif de présenter les écrans tactiles. Il s'agira de définir cette technologie,
+Cette page a pour objectif définir les écrans tactiles, en anglais et en français, et de présenter les différents types d'écrans tactiles existant.
 
-Les différentes définitions d'écrans tactile
-
-Definition touch screen (deftouchscreen.md) 
-
+Les différentes définitions en anglais d'écrans tactile
 
 ![défintion écran tactile](https://github.com/elise98paul/elisepaul-AORI-2020/blob/master/whatisatouchscreen.PNG)
+
+
+Les différentes défintion en français
+
+![définition écran tactile](https://github.com/elise98paul/elisepaul-AORI-2020/blob/master/Ecrans%20Tactiles/D%C3%A9finitions/ecrantactiledefinition.PNG) 
 
  
 ## Les différents types de technologies d'écrans tactiles
@@ -23,7 +25,7 @@ Definition touch screen (deftouchscreen.md)
 
 ## Liens des sources utlisées pour cette section :
 
-
+[Techopedia](https://www.techopedia.com/definition/3055/touch-screen)
 
 [Futura Tech](https://www.futura-sciences.com/tech/definitions/technologie-ecran-tactile-539/) 
 
