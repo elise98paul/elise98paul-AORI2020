@@ -1,11 +1,10 @@
 
 Cete section présente brièvement les composants d'un écran tactile. 
 
-# Fonctionnement 
+# Compsants
 
 [technologie capacitive](https://tpeacg.files.wordpress.com/2012/02/capture-d_c3a9cran-2012-02-20-c3a0-16-20-26.png)
 
-### Composants
 
 La technologie IntelliTouch possède des ondes accoustiques ce qui permet à l'écran de devenir tactile. Les ondes accoustiques peuvent s'acheter avec ou sans cadre. 
 
