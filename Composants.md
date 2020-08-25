@@ -1,5 +1,5 @@
 
-Cete section présente brièvement le fonctionnement des écrans tactiles et cite ses composants. 
+Cete section présente brièvement les composants d'un écran tactile. 
 
 # Fonctionnement 
 
