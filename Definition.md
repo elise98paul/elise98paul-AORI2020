@@ -2,27 +2,28 @@
 
 Cette page a pour objectif définir les écrans tactiles, en anglais et en français, et de présenter les différents types d'écrans tactiles existant.
 
-Les différentes définitions en anglais 
+#Les différentes définitions en anglais 
 
 ### TECHOPEDIA. *What is a Touch Screen? - Definition from Techopedia*. Dans : Techopedia [en ligne]. 2017. [Consulté le 10 août 2020]. Disponible à l’adresse :                 [https://www.techopedia.com/definition/3055/touch-screen](https://www.techopedia.com/definition/3055/touch-screen)
 ![definition écran tactile](https://github.com/elise98paul/elisepaul-AORI-2020/blob/master/whatisatouchscreen.PNG)
-![def ecr tac](ecranstactiles/whatsatouchscreen.Png)
 
 
-Les différentes définitions en français
+#Les différentes définitions en français
 
 ![définition écran tactile](https://github.com/elise98paul/elisepaul-AORI-2020/blob/master/Ecrans%20Tactiles/D%C3%A9finitions/ecrantactiledefinition.PNG)
 
  
 ## Les différents types de technologies d'écrans tactiles
 
-- Ecran résistif
+1.  Ecran résistif
 
-- Ecran capacitif
 
-- Ecran infrarouge
 
-- Ecran tactile multipoint
+2. Ecran capacitif
+
+3. Ecran infrarouge
+
+4. Ecran tactile multipoint
 
 
 ## Liens des sources utlisées pour cette section :
