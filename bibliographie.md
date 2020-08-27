@@ -1,6 +1,6 @@
 # Bibliographie 
 
-##### APPRENDRE À APPRENDRE. *Apprend-on mieux sur un support papier ou sur un écran ?*. Dans : apprendreaapprendre.com [en ligne]. 2020. [Consulté le 25 août 2020]. Disponible à l’adresse : [https://www.apprendreaapprendre.com/reussite_scolaire/apprend-on-mieux-sur-un-support-papier-ou-sur-un-ecran/](https://www.apprendreaapprendre.com/reussite_scolaire/apprend-on-mieux-sur-un-support-papier-ou-sur-un-ecran/) 
+#### APPRENDRE À APPRENDRE. *Apprend-on mieux sur un support papier ou sur un écran ?*. Dans : apprendreaapprendre.com [en ligne]. 2020. [Consulté le 25 août 2020]. Disponible à l’adresse : [https://www.apprendreaapprendre.com/reussite_scolaire/apprend-on-mieux-sur-un-support-papier-ou-sur-un-ecran/](https://www.apprendreaapprendre.com/reussite_scolaire/apprend-on-mieux-sur-un-support-papier-ou-sur-un-ecran/) 
 
 #### ARCHIVOR. *Capteur tactile*. Dans : HiSoUR Art Culture Histoire [en ligne]. 2018. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://www.hisour.com/fr/tactile-sensor-42878/](https://www.hisour.com/fr/tactile-sensor-42878/)
 
