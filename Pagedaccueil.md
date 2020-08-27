@@ -18,4 +18,4 @@ Mon dossier documetaire présentera une nouvelle technologie : les écrans tacti
 ## [Bibliographie](bibliographie.md)
 
 
-![touchscreen](IntelliTouch.png) 
+
