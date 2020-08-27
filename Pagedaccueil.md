@@ -9,8 +9,13 @@ Mon dossier documetaire présentera une nouvelle technologie : les écrans tacti
 
 ## [Historique](Historique.md)
 
-## [Composants](composant.md)
+## [typestouchscren](typestouchscreen.md)
+
+## [Composants](composants.md)
  
 ## [Les écrans tactiles dans les bibliothèques](lesecranstactilesdanslesbibliotheques)
 
 ## [Bibliographie](bibliographie.md)
+
+
+![touchscreen](IntelliTouch.png) 
