@@ -10,7 +10,7 @@ Cette page a pour objectif définir les écrans tactiles, en anglais et en fran�
 ### Les différentes définitions en français
 
 ![définition écran tactile](ecranstactiles/D%C3%A9finitions/ecrantactiledefinition.PNG)
- 
+
 
 
 ## Liens des sources utlisées pour cette section :
