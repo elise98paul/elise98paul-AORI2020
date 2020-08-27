@@ -2,7 +2,7 @@
 
 ##### APPRENDRE À APPRENDRE. Apprend-on mieux sur un support papier ou sur un écran ? Dans : apprendreaapprendre.com [en ligne]. 2020. [Consulté le 25 août 2020]. Disponible à l’adresse : [https://www.apprendreaapprendre.com/reussite_scolaire/apprend-on-mieux-sur-un-support-papier-ou-sur-un-ecran/](https://www.apprendreaapprendre.com/reussite_scolaire/apprend-on-mieux-sur-un-support-papier-ou-sur-un-ecran/) 
 
-#### ARCHIVOR. Capteur tactile. Dans : HiSoUR Art Culture Histoire [en ligne]. 2018. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://www.hisour.com/fr/tactile-sensor-42878/](https://www.hisour.com/fr/tactile-sensor-42878/)
+#### ARCHIVOR. *Capteur tactile*. Dans : HiSoUR Art Culture Histoire [en ligne]. 2018. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://www.hisour.com/fr/tactile-sensor-42878/](https://www.hisour.com/fr/tactile-sensor-42878/)
 
 #### De l’écran tactile à la réalité augmentée. *Les livres pour enfants à l’heure numérique. Culture, enfance & numérique*. Dossiers thématiques. La Petite Bibliothèque Ronde [en ligne]. [s. d.]. [Consulté le 31 mai 2020]. Disponible à l’adresse : [http://www.lapetitebibliothequeronde.com/Ressources/Dossiers-thematiques/Culture-Enfance-Numerique/Les-livres-pour-enfants-a-l-heure-numerique/De-l-ecran-tactile-a-la-realite-augmentee](http://www.lapetitebibliothequeronde.com/Ressources/Dossiers-thematiques/Culture-Enfance-Numerique/Les-livres-pour-enfants-a-l-heure-numerique/De-l-ecran-tactile-a-la-realite-augmentee)
 
@@ -33,7 +33,7 @@
 
 #### RF WIRELESS WORLD. Touch sensor basics | touch sensor types. Dans : RF Wireless World [en ligne]. 2012. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://www.rfwireless-world.com/Terminology/touch-sensor.html](https://www.rfwireless-world.com/Terminology/touch-sensor.html)
 
-#### TechTerms. *Touchscreen Definition*. Dans : TechTerms [en ligne]. 2020. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://techterms.com/definition/touchscreen](https://techterms.com/definition/touchscreen)
+#### TECHTERMS. *Touchscreen Definition*. Dans : TechTerms [en ligne]. 2020. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://techterms.com/definition/touchscreen](https://techterms.com/definition/touchscreen)
 
 #### What is a Touch Screen? [en ligne]. [s. d.]. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://www.computerhope.com/jargon/t/toucscre.htm](https://www.computerhope.com/jargon/t/toucscre.htm)
 
