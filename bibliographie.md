@@ -6,7 +6,7 @@
 
 #### BELLIS, Mary et Graham, BELL. *What’s the History of Touch Screen Technology?*. Dans : ThoughtCo [en ligne]. [s. d.]. [Consulté le 10 août 2020]. Disponible à l’adresse : [https://www.thoughtco.com/who-invented-touch-screen-technology-1992535](https://www.thoughtco.com/who-invented-touch-screen-technology-1992535)
 
-### CIGREF. *Histoire des premiers écrans aux écrans tactiles*. Dans : Histoire-cigref.org [en ligne]. 2012. [Consulté le 4 août 2020]. Disponible à l’adresse : [https://www.cigref.fr/archives/histoire-cigref/blog/histoire-des-premiers-ecrans-aux-ecrans-tactiles/](https://www.cigref.fr/archives/histoire-cigref/blog/histoire-des-premiers-ecrans-aux-ecrans-tactiles/)
+#### CIGREF. *Histoire des premiers écrans aux écrans tactiles*. Dans : Histoire-cigref.org [en ligne]. 2012. [Consulté le 4 août 2020]. Disponible à l’adresse : [https://www.cigref.fr/archives/histoire-cigref/blog/histoire-des-premiers-ecrans-aux-ecrans-tactiles/](https://www.cigref.fr/archives/histoire-cigref/blog/histoire-des-premiers-ecrans-aux-ecrans-tactiles/)
 
 #### De l’écran tactile à la réalité augmentée. *Les livres pour enfants à l’heure numérique. Culture, enfance & numérique*. Dossiers thématiques. La Petite Bibliothèque Ronde [en ligne]. [s. d.]. [Consulté le 31 mai 2020]. Disponible à l’adresse : [http://www.lapetitebibliothequeronde.com/Ressources/Dossiers-thematiques/Culture-Enfance-Numerique/Les-livres-pour-enfants-a-l-heure-numerique/De-l-ecran-tactile-a-la-realite-augmentee](http://www.lapetitebibliothequeronde.com/Ressources/Dossiers-thematiques/Culture-Enfance-Numerique/Les-livres-pour-enfants-a-l-heure-numerique/De-l-ecran-tactile-a-la-realite-augmentee)
 
@@ -19,8 +19,6 @@
 #### FERREIRA GUILLAUME. *Historique*. Dans : WIKEO.NET,tpe ecran tactile. [en ligne]. [s. d.]. [Consulté le 25 août 2020]. Disponible à l’adresse : [https://tpe-ecrans-tactiles.wikeo.fr/historique.html](https://tpe-ecrans-tactiles.wikeo.fr/historique.html) 
 
 #### FUTABA CORPORATION. Touch panel｜Futaba Corporation. Dans : Futaba Corporation [en ligne]. 2008. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://www.futaba.co.jp/en/display/tp/index.html](https://www.futaba.co.jp/en/display/tp/index.html)
-
-
 
 #### Informations sur les écrans tactiles résistifs [en ligne]. [s. d.]. [Consulté le 13 août 2020]. Disponible à l’adresse : [https://www.ecran-tactile.info/tout-savoir-sur-les-ecrans-tactiles-resistifs-fonctionnement-avantages/](https://www.ecran-tactile.info/tout-savoir-sur-les-ecrans-tactiles-resistifs-fonctionnement-avantages/)
 
