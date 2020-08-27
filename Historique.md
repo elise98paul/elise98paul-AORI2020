@@ -4,10 +4,7 @@
 
 ![platoiv](imagesecrans/history/cigrefplatoiv.PNG)
 
-
-
-
-![ligne](imagesecrans/Histoire/lignedutemps.Png)
+![ligne](imagesecrans/history/lignedutemps.PNG)
 
 Page suivante [typestouchscren](typestouchscreen.md)
 
