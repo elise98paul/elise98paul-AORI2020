@@ -1,6 +1,6 @@
 # Bibliographie 
 
-##### APPRENDRE À APPRENDRE. Apprend-on mieux sur un support papier ou sur un écran ? Dans : apprendreaapprendre.com [en ligne]. 2020. [Consulté le 25 août 2020]. Disponible à l’adresse : [https://www.apprendreaapprendre.com/reussite_scolaire/apprend-on-mieux-sur-un-support-papier-ou-sur-un-ecran/](https://www.apprendreaapprendre.com/reussite_scolaire/apprend-on-mieux-sur-un-support-papier-ou-sur-un-ecran/) 
+##### APPRENDRE À APPRENDRE. *Apprend-on mieux sur un support papier ou sur un écran ?*. Dans : apprendreaapprendre.com [en ligne]. 2020. [Consulté le 25 août 2020]. Disponible à l’adresse : [https://www.apprendreaapprendre.com/reussite_scolaire/apprend-on-mieux-sur-un-support-papier-ou-sur-un-ecran/](https://www.apprendreaapprendre.com/reussite_scolaire/apprend-on-mieux-sur-un-support-papier-ou-sur-un-ecran/) 
 
 #### ARCHIVOR. *Capteur tactile*. Dans : HiSoUR Art Culture Histoire [en ligne]. 2018. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://www.hisour.com/fr/tactile-sensor-42878/](https://www.hisour.com/fr/tactile-sensor-42878/)
 
@@ -24,12 +24,9 @@
 
 #### Les technologies tactiles. *Historique - L’origine des temps* [en ligne]. [s. d.]. [Consulté le 30 avril 2020]. Disponible à l’adresse : [http://igm.univ-mlv.fr/~dr/XPOSE2008/Les%20technologies%20tactiles/histo_origine.html](http://igm.univ-mlv.fr/~dr/XPOSE2008/Les%20technologies%20tactiles/histo_origine.html)
 
-
 #### LA PETITE BIBLIOTHÈQUE RONDE. De l’écran tactile à la réalité augmentée / Les livres pour enfants à l’heure numérique / Culture, Enfance & Numérique / Dossiers thématiques / Ressources / La Petite Bibliothèque Ronde - La Petite Bibliotheque Ronde. Dans : La petite bibliothèque ronde [en ligne]. 2009. [Consulté le 31 mai 2020]. Disponible à l’adresse : [http://www.lapetitebibliothequeronde.com/Ressources/Dossiers-thematiques/Culture-Enfance-Numerique/Les-livres-pour-enfants-a-l-heure-numerique/De-l-ecran-tactile-a-la-realite-augmentee](http://www.lapetitebibliothequeronde.com/Ressources/Dossiers-thematiques/Culture-Enfance-Numerique/Les-livres-pour-enfants-a-l-heure-numerique/De-l-ecran-tactile-a-la-realite-augmentee)
 
 #### LES TECHNOLOGIES TACTILES. Les technologies tactiles - Historique - L’origine des temps. Dans : Igm.univ.mlv [en ligne]. [s. d.]. [Consulté le 30 avril 2020]. Disponible à l’adresse : [http://igm.univ-mlv.fr/~dr/XPOSE2008/Les%20technologies%20tactiles/histo_origine.html](http://igm.univ-mlv.fr/~dr/XPOSE2008/Les%20technologies%20tactiles/histo_origine.html)
-
-#### NANOTHÈSE ÉCRANS TACTILE. I Historique et évolution - Nanothèse : les écrans tactiles. Dans : Nanothèse : les écrans tactiles [en ligne]. [s. d.]. [Consulté le 25 août 2020]. Disponible à l’adresse : [https://sites.google.com/site/nanotheselesecrantactile/i-historique-et-evolution](https://sites.google.com/site/nanotheselesecrantactile/i-historique-et-evolution)
 
 #### RF WIRELESS WORLD. Touch sensor basics | touch sensor types. Dans : RF Wireless World [en ligne]. 2012. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://www.rfwireless-world.com/Terminology/touch-sensor.html](https://www.rfwireless-world.com/Terminology/touch-sensor.html)
 
@@ -37,7 +34,7 @@
 
 #### What is a Touch Screen? [en ligne]. [s. d.]. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://www.computerhope.com/jargon/t/toucscre.htm](https://www.computerhope.com/jargon/t/toucscre.htm)
 
-#### WIKEO.NET, guillaume ferreira via. Historique. Dans : Tpe ecrans tactiles [en ligne]. [s. d.]. [Consulté le 25 août 2020]. Disponible à l’adresse : [https://tpe-ecrans-tactiles.wikeo.fr/historique.html](https://tpe-ecrans-tactiles.wikeo.fr/historique.html) 
+#### FERREIRA GUILLAUME. *Historique*. Dans : WIKEO.NET,tpe ecran tactile. [en ligne]. [s. d.]. [Consulté le 25 août 2020]. Disponible à l’adresse : [https://tpe-ecrans-tactiles.wikeo.fr/historique.html](https://tpe-ecrans-tactiles.wikeo.fr/historique.html) 
 
 
 ## Bibliographie du fichier image
