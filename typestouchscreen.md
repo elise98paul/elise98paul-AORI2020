@@ -2,21 +2,21 @@
 
 1.  Ecran résistif
 
-![resistif](imagesecrans/Types/ecranresistiftactileinfo.PNG)
+![resistif](imagesecrans/types/ecranresistiftactileinfo.PNG)
 
 2. Ecran Capacitif
 
-![capacitif](imagesecrans/Types/capaciteftraabilite.png)
+![capacitif](imagesecrans/types/capaciteftraabilite.png)
 
 
 3. Ecran infrarouge
 
-![infrarouge](imagesecrans/Types/infrarougespeechi.Png)
+![infrarouge](imagesecrans/types/infrarougespeechi.Png)
 
 
 4. Ecran tactile multipoint
 
-![multitouch](imagesecrans/Types/multitouchgenerationtactile.Png)
+![multitouch](imagesecrans/types/multitouchgenerationtactile.Png)
 
 
 
