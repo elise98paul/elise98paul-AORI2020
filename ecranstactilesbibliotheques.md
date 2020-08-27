@@ -11,11 +11,12 @@
 ![papiernumerique](imagesecrans/library/papiernumerique.PNG)
 
 
+#### Moodboards Bibliothèques. Dans : Digilor [en ligne]. 2018. [Consulté le 15 juin 2020]. Disponible à l’adresse : [https://www.digilor.fr/moodboards-bibliotheques/](https://www.digilor.fr/moodboards-bibliotheques/)
+![digitalisation](imagesecrans/library/digitalisation.jpg)
+
+
 
 ### Le dossier documentaire prends fin ici. Je vous invinte à consulter ma [bibliograpphie](bibliographie.md).
-
-
-
 
 
 ### [Page d'accueil](Pagedaccueil.md)
