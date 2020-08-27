@@ -23,4 +23,4 @@ Borne interactive tactile. *Table tactile*. Dans : Pinterest [en ligne]. [s. d
 
 Moodboards Bibliothèques. Dans : Digilor [en ligne]. 2018. [Consulté le 15 juin 2020]. Disponible à l’adresse : [Digilor](https://www.digilor.fr/moodboards-bibliotheques/)
 
-[pagedaccueil](pagedaccueil)
+[Page d'accueil](Pagedaccueil.md)
