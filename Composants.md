@@ -9,7 +9,7 @@ Un écran tactile possède
 ### FUTABA CORPORATION. *Touch panel*. Dans : Futaba Corporation [en ligne]. 2008. [Consulté le 23 août 2020]. Disponible à l’adresse : https://www.futaba.co.jp/en/display/tp/index.html.   
 ![touch](imagesecrans/composants/touchpanel.PNG) 
 
-
+### ARCHIVOR. *Capteur tactile*. Dans : HiSoUR Art Culture Histoire [en ligne]. 2018. [Consulté le 23 août 2020]. Disponible à l’adresse : https://www.hisour.com/fr/tactile-sensor-42878/.
 ![capteur](imagesecrans/composants/capteurtactile.PNG)
 
 
