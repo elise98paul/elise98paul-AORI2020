@@ -13,7 +13,7 @@ Mon dossier documetaire présentera une nouvelle technologie : les écrans tacti
 
 ## [Composants](composants.md)
  
-## [Les écrans tactiles dans les bibliothèques](lesecranstactilesdanslesbibliotheques)
+## [Les écrans tactiles dans les bibliothèques](ecranstactilesbibliotheques)
 
 ## [Bibliographie](bibliographie.md)
 
