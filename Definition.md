@@ -11,17 +11,6 @@ Cette page a pour objectif définir les écrans tactiles, en anglais et en fran�
 
 ![définition écran tactile](ecranstactiles/D%C3%A9finitions/ecrantactiledefinition.PNG)
  
-## Les différents types de technologies d'écrans tactiles
-
-1.  Ecran résistif
-
-
-
-2. Ecran capacitif
-
-3. Ecran infrarouge
-
-4. Ecran tactile multipoint
 
 
 ## Liens des sources utlisées pour cette section :
