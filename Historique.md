@@ -1,7 +1,7 @@
 # Historique des écrans tactiles
 
-![définition écran tactile](ecranstactiles/Définitions/ecrantactiledefinition.PNG)
-![Platoiv](ecranstactiles/Histoire/cigrefplatoiv.PNG)
+![définition écran tactile](ecranstactiles/Définitions/ecrantactiledefinition.Png)
+![platoiv](ecranstactiles/Histoire/cigrefplatoiv.PNG)
 
 Page suivante [typestouchscren](typestouchscreen.md)
 
