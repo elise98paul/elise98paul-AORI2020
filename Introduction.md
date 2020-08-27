@@ -27,9 +27,11 @@ Cette section présente l'utilité des écrans tactiles dans les bibliothèques.
 
 ### [Bibliographie](Bibliographie) 
 
+Le dossier documentaire s'achèvera par une bibliographie.
+
 
 ![touchscreen](IntelliTouch.png)
-### Elo. Ondes acoustiques de surface IntelliTouch, Avec cadre [en ligne]. [s. d.]. [Consulté le 15 juin 2020]. Disponible à l’adresse : http://www.elotouch.fr/touchscreen-components/catalog-product-view-id-82.html
+© IntelliTouch
 
 
 
