@@ -4,34 +4,37 @@ Les écrans tacliles ont pris une grande place dans nos vies. En effet, nous nou
 
 Après lectures des différents documents trouvés, j'ai établi un plan de classement se structurant de la manière suivante :
 
-* [Page d'accueil](pagedaccueil.md)
+### [Page d'accueil](pagedaccueil.md)
 
-* [Definition](Definition.md)
+### [Definition](Definition.md)
 
 Dans cette section, vous pourrez découvrir quelques définitions d'écrans tactiles et les différents d'écrans tactiles qu'il existe ainsi que leurs définitions. Les sources de cette section sont classées par ordre alphabétique.
 
-* [Historique](historique.md)
+### [Historique](historique.md)
 
 Cette section retrace l'histoire de l'éran tactile.
 
-* [typestouchscren](typestouchscreen.md)
+### [typestouchscren](typestouchscreen.md)
 
 Présentation des différents types d'écrans tactiles.
 
-* [Composants](Composants.md)
+### [Composants](Composants.md)
+
+Cette section décrit les composants d'un écran tactile.
+
+### [Les écrans tactiles dans les bibliothèques](Lesecranstactilesdanslesbibliotheques.md)
+
+Cette section présente l'utilité des écrans tactiles dans les bibliothèques.
 
 
-* [Les écrans tactiles dans les bibliothèques](Lesecranstactilesdanslesbibliotheques.md)
-
-
-* [Bibliographie](Bibliographie) 
+### [Bibliographie](Bibliographie) 
 
 
 ![touchscreen](IntelliTouch.png) 
 
 
 
-Je vous invite à vous rendre à la page [Definition](Definition.md) pour poser les bases des orignines des écrans tactiles.
+#### Je vous invite à vous rendre à la page [Definition](Definition.md) pour poser les bases des orignines des écrans tactiles.
 
-Pour retourner à la page d'accueil, c'est par ici : [Page d'accueil](Pagedaccueil.md)
+#### Pour retourner à la page d'accueil, c'est par ici : [Page d'accueil](Pagedaccueil.md)
    
