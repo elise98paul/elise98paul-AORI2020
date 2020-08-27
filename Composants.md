@@ -3,6 +3,8 @@ Cete section présente brièvement les composants d'un écran tactile.
 
 # Composants
 
+![touch](imagesecrans/composants/touchpanel.PNG) 
+
 [technologie capacitive](https://tpeacg.files.wordpress.com/2012/02/capture-d_c3a9cran-2012-02-20-c3a0-16-20-26.png)
 
 
