@@ -1,12 +1,12 @@
 # Les différents types de technologies d'écrans tactiles
 
 1.  Ecran résistif
-
+                               
 ![resistif](imagesecrans/types/ecranresistiftactileinfo.PNG)
 
 2. Ecran Capacitif
-
-![capacitif](imagesecrans/types/capaciteftraabilite.PNG)
+                                
+![touchscreen](imagesecrans/types/a.PNG)
 
 
 3. Ecran infrarouge
