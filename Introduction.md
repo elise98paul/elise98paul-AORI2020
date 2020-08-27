@@ -20,7 +20,7 @@ Présentation des différents types d'écrans tactiles.
 
 Cette section décrit les composants d'un écran tactile.
 
-### [Les écrans tactiles dans les bibliothèques](ecranstactilesbibliotheques.md)
+### [Ecrans tactiles dans les bibliothèques](ecranstactilesbibliotheques.md) 
 
 Cette section présente l'utilité des écrans tactiles dans les bibliothèques.
 
