@@ -1,6 +1,6 @@
 # Historique des écrans tactiles
 
-![platoiv](ecranstactiles/history/cigrefplatoiv.PNG)
+![platoiv](imagesecrans/history/cigrefplatoiv.PNG)
 
 Page suivante [typestouchscren](typestouchscreen.md)
 
