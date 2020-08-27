@@ -17,7 +17,8 @@
 ![resistif](imagesecrans/types/ecranresistiftactileinfo.PNG)
 
 ## 4. Ecran Capacitif
-                                
+
+### MEYER, Raph. *Ecran tactile résistif et capacitif : quelles différences et comment choisir ?*. Dans : Traçabilité code-barre [en ligne]. 28 février 2019. [Consulté le 3 août 2020]. Disponible à l’adresse : [https://tracabilite-code-barre.com/quelles-differences-entre-ecran-resistif-et-capacitif/](https://tracabilite-code-barre.com/quelles-differences-entre-ecran-resistif-et-capacitif/)                                
 ![touchscreen](imagesecrans/types/a.PNG)
 
 
