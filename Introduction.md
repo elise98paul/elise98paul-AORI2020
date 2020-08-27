@@ -12,14 +12,22 @@ Dans cette section, vous pourrez découvrir quelques définitions d'écrans tact
 
 * [Historique](historique.md)
 
+Cette section retrace l'histoire de l'éran tactile.
 
-* [Fonctionnement](Fonctionnement.md)
+* [typestouchscren](typestouchscreen.md)
+
+Présentation des différents types d'écrans tactiles.
+
+* [Composants](Composants.md)
 
 
 * [Les écrans tactiles dans les bibliothèques](Lesecranstactilesdanslesbibliotheques.md)
 
 
 * [Bibliographie](Bibliographie) 
+
+
+![touchscreen](IntelliTouch.png) 
 
 
 
