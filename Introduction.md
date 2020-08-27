@@ -1,12 +1,10 @@
-# Introduction 
+#  Introduction 
 
 Les écrans tacliles ont pris une grande place dans nos vies. En effet, nous nous sommes habitués à avoir un gsm tactile, un GPS, une tablette ou encore un ordinateur avec écran tactile. Mais connaissons-nous son histoire, ses avantages et inconvénients, son fonctionnement, ses composants et sa place dans les bibliothèques ? Ce dossier documentaire a pour objectif de répondre à toutes ces interrogations.
 
 Après lectures des différents documents trouvés, j'ai établi un plan de classement se structurant de la manière suivante :
 
-### [Page d'accueil](pagedaccueil.md)
-
-### [Definition](Definition.md)
+###  [Definition](Definition.md)
 
 Dans cette section, vous pourrez découvrir quelques définitions d'écrans tactiles et les différents d'écrans tactiles qu'il existe ainsi que leurs définitions. Les sources de cette section sont classées par ordre alphabétique.
 
@@ -30,7 +28,8 @@ Cette section présente l'utilité des écrans tactiles dans les bibliothèques.
 ### [Bibliographie](Bibliographie) 
 
 
-![touchscreen](IntelliTouch.png) 
+![touchscreen](IntelliTouch.png)
+### Elo. Ondes acoustiques de surface IntelliTouch, Avec cadre [en ligne]. [s. d.]. [Consulté le 15 juin 2020]. Disponible à l’adresse : http://www.elotouch.fr/touchscreen-components/catalog-product-view-id-82.html
 
 
 
