@@ -12,9 +12,6 @@
 ![platoiv](imagesecrans/history/cigrefplatoiv.PNG)
 
 
-### FERREIRA GUILLAUME. *Historique*. Dans : WIKEO.NET,tpe ecran tactile. [en ligne]. [s. d.]. [Consulté le 25 août 2020]. Disponible à l’adresse : [https://tpe-ecrans-tactiles.wikeo.fr/historique.html](https://tpe-ecrans-tactiles.wikeo.fr/historique.html) 
-![apple](imagesecrans/history/tpeecrantactile.PNG)
-
 #### La ligne du temps
 
 ### ION, Florence. From touch displays to the Surface: A brief history of touchscreen technology. Dans : Ars Technica [en ligne]. 2013. [Consulté le 10 août 2020]. Disponible à l’adresse : [https://arstechnica.com/gadgets/2013/04/from-touch-displays-to-the-surface-a-brief-history-of-touchscreen-technology/](https://arstechnica.com/gadgets/2013/04/from-touch-displays-to-the-surface-a-brief-history-of-touchscreen-technology/)
@@ -25,10 +22,15 @@
 ### ION, Florence. From touch displays to the Surface: A brief history of touchscreen technology. Dans : Ars Technica [en ligne]. 2013. [Consulté le 10 août 2020]. Disponible à l’adresse : [https://arstechnica.com/gadgets/2013/04/from-touch-displays-to-the-surface-a-brief-history-of-touchscreen-technology/](https://arstechnica.com/gadgets/2013/04/from-touch-displays-to-the-surface-a-brief-history-of-touchscreen-technology/)
 ![Samhurst](imagesecrans/history/samhurst.PNG)
 
+### Année 1986
 
 ### Les technologies tactiles. *Historique - L’origine des temps* [en ligne]. [s. d.]. [Consulté le 30 avril 2020]. Disponible à l’adresse : [http://igm.univ-mlv.fr/~dr/XPOSE2008/Les%20technologies%20tactiles/histo_origine.html](http://igm.univ-mlv.fr/~dr/XPOSE2008/Les%20technologies%20tactiles/histo_origine.html)
 ![bimanual](imagesecrans/history/bimanual.PNG)
 
+### La commercialisation d'écrans tactiles d'Apple
+
+### FERREIRA GUILLAUME. *Historique*. Dans : WIKEO.NET,tpe ecran tactile. [en ligne]. [s. d.]. [Consulté le 25 août 2020]. Disponible à l’adresse : [https://tpe-ecrans-tactiles.wikeo.fr/historique.html](https://tpe-ecrans-tactiles.wikeo.fr/historique.html) 
+![apple](imagesecrans/history/tpeecrantactile.PNG)
 
 
 
