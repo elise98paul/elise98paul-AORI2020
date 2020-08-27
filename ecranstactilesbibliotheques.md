@@ -18,7 +18,11 @@
 #### Moodboards Bibliothèques. Dans : Digilor [en ligne]. 2018. [Consulté le 15 juin 2020]. Disponible à l’adresse : [https://www.digilor.fr/moodboards-bibliotheques/](https://www.digilor.fr/moodboards-bibliotheques/)
 ![digitalisation](imagesecrans/library/digitalisation.jpg)
 
+### Liens des sources utilisées :
 
+[Apprendre à apprendre](https://www.apprendreaapprendre.com/reussite_scolaire/apprend-on-mieux-sur-un-support-papier-ou-sur-un-ecran/)
+[Bibliothequè ronde](http://www.lapetitebibliothequeronde.com/Ressources/Dossiers-thematiques/Culture-Enfance-Numerique/Les-livres-pour-enfants-a-l-heure-numerique/De-l-ecran-tactile-a-la-realite-augmentee)
+[Digilor](https://www.digilor.fr/moodboards-bibliotheques/) 
 
 ### Le dossier documentaire prends fin ici. Je vous invinte à consulter ma [bibliograpphie](bibliographie.md).
 
