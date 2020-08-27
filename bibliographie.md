@@ -4,6 +4,10 @@
 
 #### ARCHIVOR. *Capteur tactile*. Dans : HiSoUR Art Culture Histoire [en ligne]. 2018. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://www.hisour.com/fr/tactile-sensor-42878/](https://www.hisour.com/fr/tactile-sensor-42878/)
 
+#### BELLIS, Mary et Graham, BELL. *What’s the History of Touch Screen Technology?*. Dans : ThoughtCo [en ligne]. [s. d.]. [Consulté le 10 août 2020]. Disponible à l’adresse : [https://www.thoughtco.com/who-invented-touch-screen-technology-1992535](https://www.thoughtco.com/who-invented-touch-screen-technology-1992535)
+
+### CIGREF. *Histoire des premiers écrans aux écrans tactiles*. Dans : Histoire-cigref.org [en ligne]. 2012. [Consulté le 4 août 2020]. Disponible à l’adresse : [https://www.cigref.fr/archives/histoire-cigref/blog/histoire-des-premiers-ecrans-aux-ecrans-tactiles/](https://www.cigref.fr/archives/histoire-cigref/blog/histoire-des-premiers-ecrans-aux-ecrans-tactiles/)
+
 #### De l’écran tactile à la réalité augmentée. *Les livres pour enfants à l’heure numérique. Culture, enfance & numérique*. Dossiers thématiques. La Petite Bibliothèque Ronde [en ligne]. [s. d.]. [Consulté le 31 mai 2020]. Disponible à l’adresse : [http://www.lapetitebibliothequeronde.com/Ressources/Dossiers-thematiques/Culture-Enfance-Numerique/Les-livres-pour-enfants-a-l-heure-numerique/De-l-ecran-tactile-a-la-realite-augmentee](http://www.lapetitebibliothequeronde.com/Ressources/Dossiers-thematiques/Culture-Enfance-Numerique/Les-livres-pour-enfants-a-l-heure-numerique/De-l-ecran-tactile-a-la-realite-augmentee)
 
 #### Digitalisation de la Bibliothèque - Dispositifs interactifs. Dans : Digilor [en ligne]. [s. d.]. [Consulté le 31 mai 2020]. Disponible à l’adresse : [https://www.digilor.fr/digitalisation-de-la-bibliotheque/](https://www.digilor.fr/digitalisation-de-la-bibliotheque/)
@@ -12,17 +16,17 @@
 
 #### Ecrans Interactifs Tactiles: comprendre la technologie infrarouge. Dans : Speechi [en ligne]. [s. d.]. [Consulté le 13 août 2020]. Disponible à l’adresse : [https://www.speechi.net/fr/2019/02/27/ecran-interactif-tactile-technologie-infrarouge/](https://www.speechi.net/fr/2019/02/27/ecran-interactif-tactile-technologie-infrarouge/)
 
+#### FERREIRA GUILLAUME. *Historique*. Dans : WIKEO.NET,tpe ecran tactile. [en ligne]. [s. d.]. [Consulté le 25 août 2020]. Disponible à l’adresse : [https://tpe-ecrans-tactiles.wikeo.fr/historique.html](https://tpe-ecrans-tactiles.wikeo.fr/historique.html) 
+
 #### FUTABA CORPORATION. Touch panel｜Futaba Corporation. Dans : Futaba Corporation [en ligne]. 2008. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://www.futaba.co.jp/en/display/tp/index.html](https://www.futaba.co.jp/en/display/tp/index.html)
 
-#### HISTORY-COMUTER. Touch Screen - Complete History of the Touch Screen. Dans : History-computer [en ligne]. [s. d.]. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://history-computer.com/ModernComputer/Basis/touch_screen.html](https://history-computer.com/ModernComputer/Basis/touch_screen.html)
+
 
 #### Informations sur les écrans tactiles résistifs [en ligne]. [s. d.]. [Consulté le 13 août 2020]. Disponible à l’adresse : [https://www.ecran-tactile.info/tout-savoir-sur-les-ecrans-tactiles-resistifs-fonctionnement-avantages/](https://www.ecran-tactile.info/tout-savoir-sur-les-ecrans-tactiles-resistifs-fonctionnement-avantages/)
 
 #### INTERFACE TACTILE. Ecran tactile capacitif (Technologie) | Interfaces tactiles [en ligne]. 2019. [Consulté le 13 août 2020]. Disponible à l’adresse : [http://interfacetactile.com/ecran-tactile-capacitif](http://interfacetactile.com/ecran-tactile-capacitif)
 
 #### ION, Florence. From touch displays to the Surface: A brief history of touchscreen technology. Dans : Ars Technica [en ligne]. 2013. [Consulté le 10 août 2020]. Disponible à l’adresse : [https://arstechnica.com/gadgets/2013/04/from-touch-displays-to-the-surface-a-brief-history-of-touchscreen-technology/](https://arstechnica.com/gadgets/2013/04/from-touch-displays-to-the-surface-a-brief-history-of-touchscreen-technology/) 
-
-#### Les technologies tactiles. *Historique - L’origine des temps* [en ligne]. [s. d.]. [Consulté le 30 avril 2020]. Disponible à l’adresse : [http://igm.univ-mlv.fr/~dr/XPOSE2008/Les%20technologies%20tactiles/histo_origine.html](http://igm.univ-mlv.fr/~dr/XPOSE2008/Les%20technologies%20tactiles/histo_origine.html)
 
 #### LA PETITE BIBLIOTHÈQUE RONDE. De l’écran tactile à la réalité augmentée / Les livres pour enfants à l’heure numérique / Culture, Enfance & Numérique / Dossiers thématiques / Ressources / La Petite Bibliothèque Ronde - La Petite Bibliotheque Ronde. Dans : La petite bibliothèque ronde [en ligne]. 2009. [Consulté le 31 mai 2020]. Disponible à l’adresse : [http://www.lapetitebibliothequeronde.com/Ressources/Dossiers-thematiques/Culture-Enfance-Numerique/Les-livres-pour-enfants-a-l-heure-numerique/De-l-ecran-tactile-a-la-realite-augmentee](http://www.lapetitebibliothequeronde.com/Ressources/Dossiers-thematiques/Culture-Enfance-Numerique/Les-livres-pour-enfants-a-l-heure-numerique/De-l-ecran-tactile-a-la-realite-augmentee)
 
@@ -33,8 +37,6 @@
 #### TECHTERMS. *Touchscreen Definition*. Dans : TechTerms [en ligne]. 2020. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://techterms.com/definition/touchscreen](https://techterms.com/definition/touchscreen)
 
 #### What is a Touch Screen? [en ligne]. [s. d.]. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://www.computerhope.com/jargon/t/toucscre.htm](https://www.computerhope.com/jargon/t/toucscre.htm)
-
-#### FERREIRA GUILLAUME. *Historique*. Dans : WIKEO.NET,tpe ecran tactile. [en ligne]. [s. d.]. [Consulté le 25 août 2020]. Disponible à l’adresse : [https://tpe-ecrans-tactiles.wikeo.fr/historique.html](https://tpe-ecrans-tactiles.wikeo.fr/historique.html) 
 
 
 ## Bibliographie du fichier image
