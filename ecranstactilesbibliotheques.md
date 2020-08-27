@@ -12,7 +12,7 @@
 
 
 
-##### Le dossier documentaire prends fin ici. Je vous invinte à consulter ma [bibliograpphie](bibliographie.md).
+### Le dossier documentaire prends fin ici. Je vous invinte à consulter ma [bibliograpphie](bibliographie.md).
 
 
 
