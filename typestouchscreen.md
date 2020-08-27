@@ -6,17 +6,17 @@
 
 2. Ecran Capacitif
 
-![capacitif](imagesecrans/types/capaciteftraabilite.png)
+![capacitif](imagesecrans/types/capaciteftraabilite.PNG)
 
 
 3. Ecran infrarouge
 
-![infrarouge](imagesecrans/types/infrarougespeechi.Png)
+![infrarouge](imagesecrans/types/infrarougespeechi.PNG)
 
 
 4. Ecran tactile multipoint
 
-![multitouch](imagesecrans/types/multitouchgenerationtactile.Png)
+![multitouch](imagesecrans/types/multitouchgenerationtactile.PNG)
 
 
 
