@@ -10,6 +10,8 @@
 
 #### De l’écran tactile à la réalité augmentée. *Les livres pour enfants à l’heure numérique. Culture, enfance & numérique*. Dossiers thématiques. La Petite Bibliothèque Ronde [en ligne]. [s. d.]. [Consulté le 31 mai 2020]. Disponible à l’adresse : [http://www.lapetitebibliothequeronde.com/Ressources/Dossiers-thematiques/Culture-Enfance-Numerique/Les-livres-pour-enfants-a-l-heure-numerique/De-l-ecran-tactile-a-la-realite-augmentee](http://www.lapetitebibliothequeronde.com/Ressources/Dossiers-thematiques/Culture-Enfance-Numerique/Les-livres-pour-enfants-a-l-heure-numerique/De-l-ecran-tactile-a-la-realite-augmentee)
 
+#### DICO DU NET. *Ecran tactile - Définition de Ecran tactile (Touchscreen)*. Dans : Dico du net [en ligne]. [s. d.]. [Consulté le 4 août 2020]. Disponible à l’adresse : [http://www.dicodunet.com/definitions/materiel/ecran-tactile.htm](http://www.dicodunet.com/definitions/materiel/ecran-tactile.htm)
+
 #### Digitalisation de la Bibliothèque - Dispositifs interactifs. Dans : Digilor [en ligne]. [s. d.]. [Consulté le 31 mai 2020]. Disponible à l’adresse : [https://www.digilor.fr/digitalisation-de-la-bibliotheque/](https://www.digilor.fr/digitalisation-de-la-bibliotheque/)
 
 #### DISLAIRE, MAXENCE. Le MultiTouch qu’est ce que c’est ? A quoi ça sert ? [FAQ] -. Dans : Génération Tactile ... Out Of Home [en ligne]. 2009. [Consulté le 13 août 2020]. Disponible à l’adresse : [http://www.generation-tactile.com/archives-gt/faq/le-multitouch-faq-11829](http://www.generation-tactile.com/archives-gt/faq/le-multitouch-faq-11829)
@@ -19,6 +21,8 @@
 #### FERREIRA GUILLAUME. *Historique*. Dans : WIKEO.NET,tpe ecran tactile. [en ligne]. [s. d.]. [Consulté le 25 août 2020]. Disponible à l’adresse : [https://tpe-ecrans-tactiles.wikeo.fr/historique.html](https://tpe-ecrans-tactiles.wikeo.fr/historique.html) 
 
 #### FUTABA CORPORATION. Touch panel｜Futaba Corporation. Dans : Futaba Corporation [en ligne]. 2008. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://www.futaba.co.jp/en/display/tp/index.html](https://www.futaba.co.jp/en/display/tp/index.html)
+
+#### FUTURA-SCIENCES. *Écran tactile*. Dans : Futura [en ligne]. 2020. [Consulté le 28 août 2020]. Disponible à l’adresse : https://www.futura-sciences.com/tech/definitions/technologie-ecran-tactile-539/
 
 #### Informations sur les écrans tactiles résistifs [en ligne]. [s. d.]. [Consulté le 13 août 2020]. Disponible à l’adresse : [https://www.ecran-tactile.info/tout-savoir-sur-les-ecrans-tactiles-resistifs-fonctionnement-avantages/](https://www.ecran-tactile.info/tout-savoir-sur-les-ecrans-tactiles-resistifs-fonctionnement-avantages/)
 
@@ -32,10 +36,11 @@
 
 #### RF WIRELESS WORLD. Touch sensor basics | touch sensor types. Dans : RF Wireless World [en ligne]. 2012. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://www.rfwireless-world.com/Terminology/touch-sensor.html](https://www.rfwireless-world.com/Terminology/touch-sensor.html)
 
+## TECHOPEDIA. *What is a Touch Screen? - Definition from Techopedia*. Dans : Techopedia [en ligne]. 2017. [Consulté le 10 août 2020]. Disponible à l’adresse :                 [https://www.techopedia.com/definition/3055/touch-screen](https://www.techopedia.com/definition/3055/touch-screen)
+
 #### TECHTERMS. *Touchscreen Definition*. Dans : TechTerms [en ligne]. 2020. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://techterms.com/definition/touchscreen](https://techterms.com/definition/touchscreen)
 
 #### What is a Touch Screen? [en ligne]. [s. d.]. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://www.computerhope.com/jargon/t/toucscre.htm](https://www.computerhope.com/jargon/t/toucscre.htm)
-
 
 ## Bibliographie du fichier image
 
