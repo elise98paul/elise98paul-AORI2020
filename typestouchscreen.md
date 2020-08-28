@@ -30,7 +30,7 @@ Il existe différents écrans tactiles. Cette section vous les présente.
 
 #### [SPEECHI](https://www.speechi.net/fr/2019/02/27/ecran-interactif-tactile-technologie-infrarouge/)
 
-#### [Tracabilité](https://tracabilite-code-barre.com/quelles-differences-entre-ecran-resistif-et-capacitif/)
+#### [Traçabilité](https://tracabilite-code-barre.com/quelles-differences-entre-ecran-resistif-et-capacitif/)
 
 #### Le dossier documentaire continue : rendez-vous à la page [Composants](Composants.md)
 
