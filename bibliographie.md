@@ -36,19 +36,15 @@
 
 #### RF WIRELESS WORLD. Touch sensor basics | touch sensor types. Dans : RF Wireless World [en ligne]. 2012. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://www.rfwireless-world.com/Terminology/touch-sensor.html](https://www.rfwireless-world.com/Terminology/touch-sensor.html)
 
-## TECHOPEDIA. *What is a Touch Screen? - Definition from Techopedia*. Dans : Techopedia [en ligne]. 2017. [Consulté le 10 août 2020]. Disponible à l’adresse :                 [https://www.techopedia.com/definition/3055/touch-screen](https://www.techopedia.com/definition/3055/touch-screen)
+#### TECHOPEDIA. *What is a Touch Screen? - Definition from Techopedia*. Dans : Techopedia [en ligne]. 2017. [Consulté le 10 août 2020]. Disponible à l’adresse :                 [https://www.techopedia.com/definition/3055/touch-screen](https://www.techopedia.com/definition/3055/touch-screen)
 
 #### TECHTERMS. *Touchscreen Definition*. Dans : TechTerms [en ligne]. 2020. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://techterms.com/definition/touchscreen](https://techterms.com/definition/touchscreen)
 
 #### What is a Touch Screen? [en ligne]. [s. d.]. [Consulté le 23 août 2020]. Disponible à l’adresse : [https://www.computerhope.com/jargon/t/toucscre.htm](https://www.computerhope.com/jargon/t/toucscre.htm)
 
-## Bibliographie du fichier image
-
-#### Borne interactive tactile. *Table tactile*. Dans : Pinterest [en ligne]. [s. d.]. [Consulté le 15 juin 2020]. Disponible à l’adresse : [https://www.pinterest.com/pin/838584393088767657/](https://www.pinterest.com/pin/838584393088767657/)
+## Bibliographie image
 
 #### ELO. Ondes acoustiques de surface IntelliTouch, Avec cadre [en ligne]. [s. d.]. [Consulté le 15 juin 2020]. Disponible à l’adresse : [http://www.elotouch.fr/touchscreen-components/catalog-product-view-id-82.html](http://www.elotouch.fr/touchscreen-components/catalog-product-view-id-82.html)
-
-#### LES NUMÉRIQUES. *Quels sont les meilleurs « petits smartphones » ?* Juin 2020 - Les Numériques [en ligne]. 2020. [Consulté le 15 juin 2020]. Disponible à l’adresse : [https://www.lesnumeriques.com/telephone-portable/guide-achat-les-meilleurs-petits-smartphones-g65.html](https://www.lesnumeriques.com/telephone-portable/guide-achat-les-meilleurs-petits-smartphones-g65.html)
 
 #### Moodboards Bibliothèques. Dans : Digilor [en ligne]. 2018. [Consulté le 15 juin 2020]. Disponible à l’adresse : [https://www.digilor.fr/moodboards-bibliotheques/](https://www.digilor.fr/moodboards-bibliotheques/)
 
