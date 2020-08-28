@@ -1,6 +1,6 @@
 # Historique des écrans tactiles
 
-### Cette section retrace l'histoire de l'écran tactile, de son invention à sa commercialisation par Apple ou d'autres. Une ligne du temps illustre cette histoire.
+#### Cette section retrace l'histoire de l'écran tactile, de son invention à sa commercialisation par Apple, puis par d'autres entreprises. Une ligne du temps illustre cette histoire. Les documents ne sont pas classés par ordre alphabétique, mais selon celle-ci.
 
 
 ### BELLIS, Mary et Graham, BELL. *What’s the History of Touch Screen Technology?*. Dans : ThoughtCo [en ligne]. [s. d.]. [Consulté le 10 août 2020]. Disponible à l’adresse : [https://www.thoughtco.com/who-invented-touch-screen-technology-1992535](https://www.thoughtco.com/who-invented-touch-screen-technology-1992535)
@@ -32,6 +32,8 @@
 ### FERREIRA GUILLAUME. *Historique*. Dans : WIKEO.NET,tpe ecran tactile. [en ligne]. [s. d.]. [Consulté le 25 août 2020]. Disponible à l’adresse : [https://tpe-ecrans-tactiles.wikeo.fr/historique.html](https://tpe-ecrans-tactiles.wikeo.fr/historique.html) 
 ![apple](imagesecrans/history/tpeecrantactile.PNG)
 
+
+Liens des sources utilisées:
 
 
 
