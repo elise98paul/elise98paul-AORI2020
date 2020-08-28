@@ -33,9 +33,15 @@
 ![apple](imagesecrans/history/tpeecrantactile.PNG)
 
 
-Liens des sources utilisées:
+### Liens des sources utilisées:
 
+#### [Arstechnica](https://arstechnica.com/gadgets/2013/04/from-touch-displays-to-the-surface-a-brief-history-of-touchscreen-technology/)
 
+#### [Cigref](https://www.cigref.fr/archives/histoire-cigref/blog/histoire-des-premiers-ecrans-aux-ecrans-tactiles/)
+
+#### [Igm.univ.mlv](http://igm.univ-mlv.fr/~dr/XPOSE2008/Les%20technologies%20tactiles/histo_origine.html)
+
+#### [Wikeo.fr](https://tpe-ecrans-tactiles.wikeo.fr/historique.html)
 
 
 
